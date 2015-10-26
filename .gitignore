@@ -1,13 +1,14 @@
-.classpath
-.project
-.settings
+/.classpath
+/.project
+/.settings
 bin
 build
-target
+/target
 dependency-reduced-pom.xml
 
 *.iml
 .idea
-mvnw
-mvnw.cmd
-
+/mvnw
+/mvnw.cmd
+/.mvn/*
+/.springBeans
