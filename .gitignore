@@ -17,4 +17,5 @@ README.html
 *.iml
 .idea
 mvnw
+mvnw.cmd
 
