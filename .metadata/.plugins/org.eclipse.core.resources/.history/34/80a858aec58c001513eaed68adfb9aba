@@ -1,1 +1,0 @@
-insert into companies (id, name, domain, ticker) values (1,'Wal-Mart Stores','www.corporate.walmart.com','');
