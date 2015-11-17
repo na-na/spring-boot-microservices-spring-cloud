@@ -18,7 +18,6 @@ public class FcapiService {
 	public Map<String,Object> remoteInfo(String companydomain)  {
 
 		RestTemplate restt = new RestTemplate();
-		//return restt.getForObject("http://fullcontact.cfapps.io/info/"+companydomain, HashMap.class);
 		return restt.getForObject("http://fullcontactapi.cfapps.io/info/"+companydomain, HashMap.class);
 
 		

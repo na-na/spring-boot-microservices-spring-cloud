@@ -20,6 +20,17 @@ public class Company {
 	@Column
 	private String domain;
 	
+	@Column
+	private String ticker;
+	
+	public String getTicker() {
+		return ticker;
+	}
+
+	public void setTicker(String ticker) {
+		this.ticker = ticker;
+	}
+
 	public long getId() {
 		return id;
 	}

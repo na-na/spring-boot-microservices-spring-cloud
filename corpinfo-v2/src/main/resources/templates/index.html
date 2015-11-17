@@ -7,9 +7,9 @@
 	href="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.0/css/select2.min.css"
 	rel="stylesheet" />
 <link rel="stylesheet"
-	href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" />
+	href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" />
 <script
-	src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script
 	src="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.0/js/select2.min.js"></script>
 </head>
@@ -19,7 +19,7 @@
 		$(document).ready(function() {
 			$(".js-example-basic-single").select2();
 			$('#dropdown_selector').change(function() {
-				var option = $(this).find('option:selected').attr("title");
+				var option = $(this).find('option:selected').attr("title") + ", " + $(this).find('option:selected').attr("companyTicker");
 				$('#showoption').val(option);
 			});
 		});
@@ -34,9 +34,8 @@
 			<div class="form-group">
 				<select id="dropdown_selector" class="js-example-basic-single"
 					th:field="*{companyDomain}" style="width: 280px">
-					<option th:each="item : ${companyList}" th:value="${item.domain}"
-						th:title="${item.name}" th:text="${item.name}">Company
-						Name</option>
+					<option th:each="item : ${companyList}" th:value="${item.domain}" th:title="${item.name}" th:if="${item.ticker!=null}" data-th-attr="companyTicker=${item.ticker}"
+				th:text="${item.name}">Company Name</option>
 				</select>
 			</div>
 			<div class="form-group">
