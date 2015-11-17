@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CorpInfo</title>
+<meta charset="utf-8" />
+<link rel="stylesheet"
+	href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" />
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script
+	src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+	<div class="container">
+		<ul class="nav nav-tabs">
+			<li class="active"><a href="#info">Company Info</a></li>
+			<li><a href="#news">News</a></li>
+		</ul>
+
+		<div class="tab-content">
+			<div id="info" class="tab-pane active">
+				<h2>Company Info</h2>
+				<p th:text="${{compinfo.organization.approxEmployees}}" />
+				<img class="img-rounded img-responsive" th:src="${compinfo.logo}" width="304" height="236"/> <a th:href="${compinfo.website}"
+					th:text="${compinfo.organization.name}"></a>
+
+				<ul>
+					<li th:each="item : ${compinfo.organization.keywords}"
+						th:text="${item}"></li>
+
+				</ul>
+			</div>
+			<div id="news" class="tab-pane">
+				<h2>News</h2>
+				<table>
+					<thead>
+						<tr>
+							<th>Title</th>
+							<th>Sentiment Score</th>
+							<th>Sentiment Type</th>
+							<th>color</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr th:each="doc : ${news.result.docs}">
+							<td><a th:href="${doc.source.enriched.url.url}"
+								th:text="${doc.source.enriched.url.title}" /></td>
+							<td th:text="${doc.source.enriched.url.docSentiment.score}">Sentiment
+								score</td>
+							<td th:text="${doc.source.enriched.url.docSentiment.type}">Sentiment
+								type</td>
+							<td>
+								<div class="progress">
+									<div class="progress-bar" role="progressbar" data-th-attr="aria-valuenow=${doc.source.enriched.url.docSentiment.score}" th:text="${doc.source.enriched.url.docSentiment.score}">
+									</div>
+								</div>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+
+	<script>
+		$(document).ready(function() {
+			$(".nav-tabs a").click(function() {
+				$(this).tab('show');
+			});
+			$('.progress-bar').each(function() {
+				
+				var now = Math.abs($(this).attr('aria-valuenow') * 100);
+				
+				  $(this).css('width', now+'%');
+			});
+		});
+	</script>
+
+</body>
+</html>

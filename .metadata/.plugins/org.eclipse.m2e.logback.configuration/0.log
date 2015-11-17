@@ -1,0 +1,1019 @@
+2015-11-11 10:07:45,470 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.corp.pivotal:corp-api:0.0.1-SNAPSHOT @ /Users/nagarwal/AFE Demo/corp-fcapi/pom.xml.
+2015-11-11 10:07:46,580 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.corp.news.api:corp-news-api:0.0.1-SNAPSHOT @ /Users/nagarwal/AFE Demo/corp-news-api/pom.xml.
+2015-11-11 10:07:46,801 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.corp.pivotal:corp-store:0.0.1-SNAPSHOT @ /Users/nagarwal/AFE Demo/corp-store/pom.xml.
+2015-11-11 10:07:47,324 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.corp.pivotal:corpinfo:0.0.1-SNAPSHOT @ /Users/nagarwal/AFE Demo/corpinfo/pom.xml.
+2015-11-11 10:07:48,464 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /corp-fcapi/src/main/java
+2015-11-11 10:07:48,465 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /corp-fcapi/src/main/resources
+2015-11-11 10:07:48,465 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /corp-fcapi/src/main/resources
+2015-11-11 10:07:48,466 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /corp-fcapi/src/test/java
+2015-11-11 10:07:48,603 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /corp-news-api/src/main/java
+2015-11-11 10:07:48,603 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /corp-news-api/src/main/resources
+2015-11-11 10:07:48,604 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /corp-news-api/src/main/resources
+2015-11-11 10:07:48,604 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /corp-news-api/src/test/java
+2015-11-11 10:07:48,687 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /corpinfo/src/main/java
+2015-11-11 10:07:48,687 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /corpinfo/src/main/resources
+2015-11-11 10:07:48,687 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /corpinfo/src/main/resources
+2015-11-11 10:07:48,688 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /corpinfo/src/test/java
+2015-11-11 10:07:48,689 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.corp.pivotal:corp-api:0.0.1-SNAPSHOT @ /Users/nagarwal/AFE Demo/corp-fcapi/pom.xml.
+2015-11-11 10:07:48,767 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /corp-store/src/main/java
+2015-11-11 10:07:48,768 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /corp-store/src/main/resources
+2015-11-11 10:07:48,768 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /corp-store/src/main/resources
+2015-11-11 10:07:48,768 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /corp-store/src/test/java
+2015-11-11 10:07:48,817 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 4 project(s) in 5 sec
+2015-11-11 10:07:52,088 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.corp.news.api:corp-news-api:0.0.1-SNAPSHOT @ /Users/nagarwal/AFE Demo/corp-news-api/pom.xml.
+2015-11-11 10:07:52,205 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.corp.pivotal:corp-store:0.0.1-SNAPSHOT @ /Users/nagarwal/AFE Demo/corp-store/pom.xml.
+2015-11-11 10:07:52,320 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.corp.pivotal:corpinfo:0.0.1-SNAPSHOT @ /Users/nagarwal/AFE Demo/corpinfo/pom.xml.
+2015-11-11 10:07:55,553 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:07:55,556 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:07:55,566 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-11 10:07:55,571 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:07:55,572 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-fcapi/src/test/resources
+2015-11-11 10:07:55,753 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:07:55,754 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:07:55,756 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 10:07:55,758 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:07:55,758 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-news-api/src/test/resources
+2015-11-11 10:07:56,446 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:07:56,446 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-11 10:07:56,449 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:07:56,452 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:07:56,452 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-store/src/test/resources
+2015-11-11 10:07:56,721 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:07:56,722 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:07:56,732 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-11-11 10:07:56,803 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:07:56,803 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:14:54,097 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.corp.pivotal:corpinfo:0.0.1-SNAPSHOT @ /Users/nagarwal/AFE Demo/corpinfo/pom.xml.
+2015-11-11 10:14:54,357 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:14:54,359 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 10:14:54,360 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 10:14:54,361 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:14:54,361 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:14:57,595 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:14:57,597 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:14:57,598 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-11-11 10:14:57,600 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:14:57,600 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:15:16,647 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:15:16,647 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:15:16,648 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-11-11 10:15:16,649 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:15:16,649 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:15:30,119 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:15:30,120 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 10:15:30,120 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:15:30,123 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:15:30,124 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:19:30,987 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:19:30,988 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:19:30,989 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-11-11 10:19:30,990 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:19:30,990 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:19:42,961 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:19:42,963 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:19:42,964 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-11-11 10:19:42,965 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:19:42,965 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:20:24,206 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:20:24,207 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:20:24,207 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-11-11 10:20:24,209 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:20:24,209 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:22:51,213 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:22:51,213 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:22:51,214 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-11-11 10:22:51,215 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:22:51,215 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:23:01,257 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:23:01,257 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:23:01,258 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-11-11 10:23:01,259 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:23:01,259 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:23:09,578 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:23:09,578 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:23:09,579 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-11-11 10:23:09,580 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:23:09,580 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:23:47,163 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:23:47,164 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:23:47,165 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-11-11 10:23:47,166 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:23:47,166 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:32:19,956 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:32:19,956 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:32:19,956 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 10:32:19,958 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:32:19,958 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:32:55,673 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.corp.pivotal:corpinfo:0.0.1-SNAPSHOT @ /Users/nagarwal/AFE Demo/corpinfo/pom.xml.
+2015-11-11 10:32:55,874 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:32:55,874 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 10:32:55,874 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 10:32:55,875 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:32:55,875 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:32:57,508 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:32:57,508 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-11 10:32:57,509 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-11-11 10:32:57,512 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:32:57,512 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:35:36,966 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:35:36,966 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 10:35:36,966 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:35:36,968 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:35:36,968 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:36:19,671 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:36:19,671 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 10:36:19,671 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 10:36:19,672 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:36:19,672 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:45:59,883 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:45:59,883 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 10:45:59,884 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:45:59,885 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:45:59,885 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:51:02,360 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:51:02,360 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 10:51:02,360 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:51:02,361 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:51:02,361 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:52:43,994 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:52:43,994 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 10:52:43,994 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:52:43,995 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:52:43,995 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:53:42,140 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:53:42,140 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 10:53:42,140 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:53:42,141 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:53:42,141 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:57:39,964 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:57:39,964 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 10:57:39,964 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:57:39,966 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:57:39,966 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:58:55,323 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:58:55,323 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 10:58:55,323 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:58:55,325 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:58:55,325 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 10:59:55,765 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:59:55,765 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 10:59:55,765 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 10:59:55,766 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 10:59:55,767 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 11:00:34,403 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:00:34,403 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 11:00:34,404 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 11:00:34,405 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:00:34,405 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 11:00:43,623 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:00:43,623 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 11:00:43,623 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 11:00:43,625 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:00:43,625 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 11:01:55,949 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:01:55,949 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 11:01:55,949 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 11:01:55,950 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:01:55,951 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 11:05:20,577 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:05:20,578 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 11:05:20,578 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 11:05:20,579 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:05:20,579 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 11:07:46,415 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:07:46,415 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 11:07:46,415 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 11:07:46,417 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:07:46,417 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 11:09:50,703 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:09:50,704 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 11:09:50,704 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 11:09:50,705 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:09:50,705 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 11:11:03,777 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:11:03,777 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 11:11:03,777 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 11:11:03,778 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:11:03,778 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 11:14:03,316 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:14:03,316 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 11:14:03,316 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 11:14:03,318 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:14:03,318 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 11:14:41,827 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:14:41,827 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 11:14:41,827 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 11:14:41,828 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:14:41,829 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 11:18:16,538 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:18:16,539 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 11:18:16,539 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 11:18:16,540 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:18:16,540 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 11:18:58,161 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:18:58,161 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 11:18:58,161 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 11:18:58,163 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:18:58,163 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 11:20:15,255 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:20:15,255 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 11:20:15,255 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 11:20:15,257 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:20:15,257 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 11:20:34,636 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:20:34,636 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 11:20:34,637 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 11:20:34,638 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:20:34,638 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 11:20:59,042 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:20:59,042 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 11:20:59,042 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 11:20:59,044 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:20:59,044 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 11:22:20,040 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:22:20,040 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 11:22:20,040 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 11:22:20,041 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:22:20,041 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 11:30:00,023 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:30:00,023 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 11:30:00,023 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 11:30:00,025 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 11:30:00,025 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 12:09:54,061 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 12:09:54,062 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 12:09:54,062 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 12:09:54,063 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 12:09:54,063 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 12:13:58,376 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 12:13:58,376 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 12:13:58,376 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 12:13:58,377 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 12:13:58,377 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 12:33:24,307 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 12:33:24,307 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 12:33:24,307 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 12:33:24,308 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 12:33:24,308 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 13:01:23,484 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 13:01:23,484 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 13:01:23,484 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 13:01:23,485 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 13:01:23,486 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 13:04:51,792 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 13:04:51,792 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 13:04:51,793 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 13:04:51,794 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 13:04:51,794 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 13:14:42,422 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 13:14:42,422 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 13:14:42,422 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 13:14:42,424 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 13:14:42,424 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 13:14:55,529 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 13:14:55,529 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 13:14:55,529 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 13:14:55,530 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 13:14:55,530 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 13:21:42,856 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 13:21:42,857 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 13:21:42,857 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 13:21:42,858 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 13:21:42,858 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 13:22:13,785 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 13:22:13,786 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 13:22:13,786 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 13:22:13,787 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 13:22:13,787 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 13:43:10,824 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 13:43:10,825 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 13:43:10,825 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 13:43:10,826 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 13:43:10,826 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 13:45:08,719 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 13:45:08,719 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 13:45:08,719 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 13:45:08,720 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 13:45:08,721 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 13:45:12,774 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 13:45:12,774 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 13:45:12,774 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 13:45:12,775 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 13:45:12,775 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 13:46:02,345 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 13:46:02,345 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 13:46:02,345 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 13:46:02,347 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 13:46:02,347 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 14:21:22,286 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:21:22,286 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 14:21:22,286 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 14:21:22,288 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:21:22,288 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 14:22:14,818 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:22:14,819 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-11 14:22:14,820 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-11-11 14:22:14,821 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:22:14,822 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 14:24:19,584 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:24:19,585 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-11 14:24:19,586 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-11-11 14:24:19,587 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:24:19,587 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 14:24:52,705 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:24:52,705 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-11 14:24:52,706 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-11-11 14:24:52,707 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:24:52,707 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 14:29:04,042 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:29:04,042 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 14:29:04,042 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 14:29:04,044 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:29:04,044 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 14:32:35,241 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:32:35,242 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 14:32:35,242 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 14:32:35,243 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:32:35,243 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 14:32:52,211 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:32:52,211 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-11 14:32:52,212 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-11-11 14:32:52,213 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:32:52,213 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 14:40:22,464 [Worker-114] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2015-11-11 14:40:27,906 [Worker-120] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: 1 problem was encountered while building the effective model for io.corp.pivotal:corpinfo-v2:0.0.1-SNAPSHOT
+[FATAL] Non-resolvable parent POM: Failure to find org.springframework.boot:spring-boot-starter-parent:pom:1.3.0.M5 in http://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced and 'parent.relativePath' points at no local POM @ line 14, column 10
+ for project io.corp.pivotal:corpinfo-v2:0.0.1-SNAPSHOT at /Users/nagarwal/AFE Demo/corpinfo-v2/pom.xml
+org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model for io.corp.pivotal:corpinfo-v2:0.0.1-SNAPSHOT
+[FATAL] Non-resolvable parent POM: Failure to find org.springframework.boot:spring-boot-starter-parent:pom:1.3.0.M5 in http://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced and 'parent.relativePath' points at no local POM @ line 14, column 10
+ for project io.corp.pivotal:corpinfo-v2:0.0.1-SNAPSHOT at /Users/nagarwal/AFE Demo/corpinfo-v2/pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:152) ~[maven-core-3.2.1.jar:3.2.1]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:105) ~[maven-core-3.2.1.jar:3.2.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:629) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:779) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:913) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:775) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:188) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:80) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:259) [org.eclipse.m2e.core.ui_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:753) [org.eclipse.m2e.editor_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$6.run(MavenPomEditor.java:1073) [org.eclipse.m2e.editor_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.1.v20141014-1248.jar:na]
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model for io.corp.pivotal:corpinfo-v2:0.0.1-SNAPSHOT
+[FATAL] Non-resolvable parent POM: Failure to find org.springframework.boot:spring-boot-starter-parent:pom:1.3.0.M5 in http://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced and 'parent.relativePath' points at no local POM @ line 14, column 10
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:195) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.building.DefaultModelBuilder.readParentExternally(DefaultModelBuilder.java:848) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.building.DefaultModelBuilder.readParent(DefaultModelBuilder.java:669) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:307) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:145) ~[maven-core-3.2.1.jar:3.2.1]
+	... 15 common frames omitted
+2015-11-11 14:41:16,433 [Worker-122] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: 1 problem was encountered while building the effective model for io.corp.pivotal:corpinfo-v2:0.0.1-SNAPSHOT
+[FATAL] Non-resolvable parent POM: Failure to find org.springframework.boot:spring-boot-starter-parent:pom:1.3.0.M5 in http://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced and 'parent.relativePath' points at no local POM @ line 14, column 10
+ for project io.corp.pivotal:corpinfo-v2:0.0.1-SNAPSHOT at /Users/nagarwal/AFE Demo/corpinfo-v2/pom.xml
+org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model for io.corp.pivotal:corpinfo-v2:0.0.1-SNAPSHOT
+[FATAL] Non-resolvable parent POM: Failure to find org.springframework.boot:spring-boot-starter-parent:pom:1.3.0.M5 in http://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced and 'parent.relativePath' points at no local POM @ line 14, column 10
+ for project io.corp.pivotal:corpinfo-v2:0.0.1-SNAPSHOT at /Users/nagarwal/AFE Demo/corpinfo-v2/pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:152) ~[maven-core-3.2.1.jar:3.2.1]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:105) ~[maven-core-3.2.1.jar:3.2.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:629) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:779) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:913) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:775) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:188) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:80) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:259) [org.eclipse.m2e.core.ui_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:753) [org.eclipse.m2e.editor_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$6.run(MavenPomEditor.java:1073) [org.eclipse.m2e.editor_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.1.v20141014-1248.jar:na]
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model for io.corp.pivotal:corpinfo-v2:0.0.1-SNAPSHOT
+[FATAL] Non-resolvable parent POM: Failure to find org.springframework.boot:spring-boot-starter-parent:pom:1.3.0.M5 in http://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced and 'parent.relativePath' points at no local POM @ line 14, column 10
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:195) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.building.DefaultModelBuilder.readParentExternally(DefaultModelBuilder.java:848) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.building.DefaultModelBuilder.readParent(DefaultModelBuilder.java:669) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:307) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:145) ~[maven-core-3.2.1.jar:3.2.1]
+	... 15 common frames omitted
+2015-11-11 14:41:35,534 [Worker-122] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.corp.pivotal:corpinfo-v2:0.0.1-SNAPSHOT @ /Users/nagarwal/AFE Demo/corpinfo-v2/pom.xml.
+2015-11-11 14:41:35,808 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:41:35,808 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-11 14:41:35,812 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-11-11 14:41:35,851 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:41:35,851 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-11 14:41:37,122 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:41:37,122 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-11 14:41:37,123 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-11-11 14:41:37,125 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:41:37,125 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-11 14:41:46,392 [Worker-121] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-11-11 14:41:46,438 [Worker-121] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.corp.pivotal:corpinfo-v2:0.0.1-SNAPSHOT @ /Users/nagarwal/AFE Demo/corpinfo-v2/pom.xml.
+2015-11-11 14:41:46,583 [Worker-121] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /corpinfo-v2/src/main/java
+2015-11-11 14:41:46,583 [Worker-121] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /corpinfo-v2/src/main/resources
+2015-11-11 14:41:46,583 [Worker-121] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /corpinfo-v2/src/main/resources
+2015-11-11 14:41:46,583 [Worker-121] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /corpinfo-v2/src/test/java
+2015-11-11 14:41:46,633 [Worker-121] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-11-11 14:41:46,916 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:41:46,916 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-11 14:41:46,917 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-11-11 14:41:46,920 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:41:46,920 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-11 14:45:49,924 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:45:49,924 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-11 14:45:49,926 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-11-11 14:45:49,927 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:45:49,927 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-11 14:46:14,610 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:46:14,610 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 14:46:14,610 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 14:46:14,611 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:46:14,611 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-11 14:55:03,290 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:55:03,291 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 14:55:03,291 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 14:55:03,292 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:55:03,292 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-11 14:55:08,656 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:55:08,656 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 14:55:08,656 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 14:55:08,657 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:55:08,657 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 14:55:21,287 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:55:21,288 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 14:55:21,288 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 14:55:21,295 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:55:21,295 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 14:55:29,688 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:55:29,688 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 14:55:29,688 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 14:55:29,690 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:55:29,690 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 14:55:59,675 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:55:59,675 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 14:55:59,676 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 14:55:59,677 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:55:59,677 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-11 14:56:08,236 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:56:08,236 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 14:56:08,237 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 14:56:08,238 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 14:56:08,238 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 17:08:03,711 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 17:08:03,712 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 17:08:03,712 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 17:08:03,713 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 17:08:03,713 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-11 17:10:47,508 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 17:10:47,510 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 17:10:47,510 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 17:10:47,511 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 17:10:47,511 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-fcapi/src/test/resources
+2015-11-11 17:40:53,930 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 17:40:53,930 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 17:40:53,930 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 17:40:53,931 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 17:40:53,931 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-fcapi/src/test/resources
+2015-11-11 17:41:27,880 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 17:41:27,880 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-11 17:41:27,881 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-11 17:41:27,881 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-11 17:41:27,881 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 10:48:24,984 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 10:48:24,986 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 10:48:24,988 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-11-12 10:48:24,990 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 10:48:24,990 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 10:52:17,444 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 10:52:17,444 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 10:52:17,445 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-11-12 10:52:17,446 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 10:52:17,446 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 11:39:03,050 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 11:39:03,050 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 11:39:03,052 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-11-12 11:39:03,053 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 11:39:03,053 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-12 11:39:12,856 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 11:39:12,856 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 11:39:12,857 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-11-12 11:39:12,858 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 11:39:12,858 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-12 11:44:20,610 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 11:44:20,610 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 11:44:20,611 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 11:44:20,612 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 11:44:20,612 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-12 14:21:30,835 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:21:30,835 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 14:21:30,835 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 14:21:30,836 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:21:30,836 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-12 14:27:03,514 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:27:03,514 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 14:27:03,515 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 14:27:03,516 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:27:03,516 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 14:27:40,997 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:27:40,997 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 14:27:40,997 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 14:27:40,998 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:27:40,998 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 14:29:07,763 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:29:07,763 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 14:29:07,763 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 14:29:07,764 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:29:07,764 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 14:29:31,862 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:29:31,863 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 14:29:31,863 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 14:29:31,865 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:29:31,865 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 14:32:42,422 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:32:42,422 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 14:32:42,422 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 14:32:42,423 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:32:42,423 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 14:33:16,047 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:33:16,048 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 14:33:16,048 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 14:33:16,049 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:33:16,049 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 14:34:28,472 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:34:28,472 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 14:34:28,472 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 14:34:28,473 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:34:28,473 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 14:34:35,296 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:34:35,296 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 14:34:35,296 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 14:34:35,297 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:34:35,297 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 14:36:14,490 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:36:14,490 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 14:36:14,490 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 14:36:14,491 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:36:14,491 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 14:37:01,675 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:37:01,676 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 14:37:01,676 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 14:37:01,677 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:37:01,677 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 14:42:04,168 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:42:04,169 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 14:42:04,169 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 14:42:04,170 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:42:04,170 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 14:42:26,275 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:42:26,275 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 14:42:26,275 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 14:42:26,277 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:42:26,277 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 14:44:06,787 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:44:06,787 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 14:44:06,787 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 14:44:06,788 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:44:06,788 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 14:44:16,665 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:44:16,665 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 14:44:16,665 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 14:44:16,666 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:44:16,666 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 14:45:47,539 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:45:47,540 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 14:45:47,540 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 14:45:47,541 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:45:47,541 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 14:45:51,640 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:45:51,641 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 14:45:51,641 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 14:45:51,642 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:45:51,642 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 14:48:34,592 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:48:34,592 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 14:48:34,592 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 14:48:34,593 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 14:48:34,593 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 15:27:13,221 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:27:13,222 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 15:27:13,222 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-11-12 15:27:13,223 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:27:13,223 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 15:27:35,678 [Worker-290] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:27:35,678 [Worker-290] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 15:27:35,679 [Worker-290] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-11-12 15:27:35,680 [Worker-290] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:27:35,680 [Worker-290] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 15:29:35,735 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:29:35,735 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 15:29:35,735 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 15:29:35,736 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:29:35,736 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 15:30:11,058 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:30:11,058 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 15:30:11,058 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 15:30:11,059 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:30:11,059 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 15:31:26,362 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:31:26,362 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 15:31:26,362 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 15:31:26,363 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:31:26,363 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 15:37:42,509 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:37:42,509 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 15:37:42,509 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 15:37:42,510 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:37:42,510 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 15:37:52,819 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:37:52,819 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 15:37:52,819 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 15:37:52,821 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:37:52,821 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 15:40:12,575 [Worker-291] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:40:12,575 [Worker-291] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 15:40:12,575 [Worker-291] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 15:40:12,576 [Worker-291] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:40:12,576 [Worker-291] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 15:46:48,732 [Worker-300] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:46:48,732 [Worker-300] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 15:46:48,732 [Worker-300] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 15:46:48,733 [Worker-300] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:46:48,733 [Worker-300] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 15:48:39,417 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:48:39,417 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 15:48:39,417 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 15:48:39,418 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:48:39,418 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 15:49:17,261 [Worker-301] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:49:17,261 [Worker-301] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 15:49:17,261 [Worker-301] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 15:49:17,263 [Worker-301] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:49:17,263 [Worker-301] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 15:50:27,510 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:50:27,510 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 15:50:27,510 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 15:50:27,511 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:50:27,512 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 15:52:37,707 [Worker-301] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:52:37,707 [Worker-301] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 15:52:37,707 [Worker-301] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 15:52:37,708 [Worker-301] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:52:37,708 [Worker-301] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 15:59:05,234 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:59:05,234 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 15:59:05,234 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 15:59:05,235 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:59:05,235 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 15:59:34,289 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:59:34,290 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 15:59:34,290 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 15:59:34,291 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 15:59:34,291 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 16:00:18,862 [Worker-299] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:00:18,862 [Worker-299] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 16:00:18,863 [Worker-299] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 16:00:18,864 [Worker-299] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:00:18,864 [Worker-299] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 16:08:30,414 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:08:30,414 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 16:08:30,414 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 16:08:30,415 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:08:30,415 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 16:26:28,832 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:26:28,832 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 16:26:28,832 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 16:26:28,833 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:26:28,833 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 16:28:44,385 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:28:44,386 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 16:28:44,386 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 16:28:44,387 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:28:44,387 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 16:29:17,226 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:29:17,226 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 16:29:17,226 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 16:29:17,227 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:29:17,227 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 16:34:14,479 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:34:14,479 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 16:34:14,479 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 16:34:14,481 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:34:14,481 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 16:34:20,996 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:34:20,996 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 16:34:20,997 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 16:34:20,998 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:34:20,998 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 16:39:20,547 [Worker-326] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:39:20,547 [Worker-326] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 16:39:20,547 [Worker-326] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 16:39:20,548 [Worker-326] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:39:20,548 [Worker-326] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 16:41:01,321 [Worker-315] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:41:01,321 [Worker-315] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 16:41:01,321 [Worker-315] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 16:41:01,322 [Worker-315] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:41:01,322 [Worker-315] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 16:41:55,594 [Worker-325] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:41:55,594 [Worker-325] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 16:41:55,594 [Worker-325] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 16:41:55,595 [Worker-325] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:41:55,595 [Worker-325] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 16:49:29,044 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:49:29,045 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 16:49:29,045 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 16:49:29,046 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:49:29,046 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 16:51:05,590 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:51:05,590 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 16:51:05,590 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 16:51:05,591 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:51:05,591 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 16:53:21,769 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:53:21,770 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 16:53:21,770 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 16:53:21,771 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 16:53:21,771 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-12 22:49:42,943 [Worker-345] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 22:49:42,947 [Worker-345] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 22:49:42,947 [Worker-345] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-12 22:49:42,949 [Worker-345] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 22:49:42,949 [Worker-345] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-fcapi/src/test/resources
+2015-11-13 09:09:39,603 [Worker-362] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 09:09:39,604 [Worker-362] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 09:09:39,604 [Worker-362] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-13 09:09:39,615 [Worker-362] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 09:09:39,615 [Worker-362] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-13 09:11:11,975 [Worker-358] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 09:11:11,975 [Worker-358] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 09:11:11,975 [Worker-358] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-13 09:11:11,979 [Worker-358] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 09:11:11,979 [Worker-358] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-13 09:11:56,564 [Worker-356] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 09:11:56,564 [Worker-356] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 09:11:56,564 [Worker-356] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-13 09:11:56,565 [Worker-356] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 09:11:56,565 [Worker-356] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-13 09:13:29,461 [Worker-355] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 09:13:29,462 [Worker-355] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 09:13:29,462 [Worker-355] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-13 09:13:29,463 [Worker-355] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 09:13:29,463 [Worker-355] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-13 09:13:37,564 [Worker-360] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 09:13:37,564 [Worker-360] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 09:13:37,564 [Worker-360] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-13 09:13:37,566 [Worker-360] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 09:13:37,566 [Worker-360] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-13 09:14:55,514 [Worker-358] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 09:14:55,514 [Worker-358] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 09:14:55,515 [Worker-358] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-13 09:14:55,515 [Worker-358] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 09:14:55,516 [Worker-358] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-13 10:25:39,840 [Worker-378] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:25:39,840 [Worker-378] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-13 10:25:39,841 [Worker-378] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 10:25:39,842 [Worker-378] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:25:39,842 [Worker-378] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-news-api/src/test/resources
+2015-11-13 10:27:23,859 [Worker-381] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.corp.news.api:corp-news-api:0.0.1-SNAPSHOT @ /Users/nagarwal/AFE Demo/corp-news-api/pom.xml.
+2015-11-13 10:27:24,032 [Worker-381] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:27:24,032 [Worker-381] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 10:27:24,032 [Worker-381] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 10:27:24,032 [Worker-381] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:27:24,032 [Worker-381] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-news-api/src/test/resources
+2015-11-13 10:27:26,153 [Worker-382] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:27:26,153 [Worker-382] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-13 10:27:26,154 [Worker-382] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 10:27:26,155 [Worker-382] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:27:26,155 [Worker-382] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-news-api/src/test/resources
+2015-11-13 10:29:35,778 [Worker-381] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:29:35,778 [Worker-381] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-13 10:29:35,778 [Worker-381] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 10:29:35,779 [Worker-381] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:29:35,779 [Worker-381] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-news-api/src/test/resources
+2015-11-13 10:30:40,704 [Worker-379] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:30:40,705 [Worker-379] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-13 10:30:40,705 [Worker-379] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 10:30:40,706 [Worker-379] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:30:40,707 [Worker-379] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-news-api/src/test/resources
+2015-11-13 10:31:33,862 [Worker-381] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:31:33,862 [Worker-381] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-13 10:31:33,862 [Worker-381] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 10:31:33,863 [Worker-381] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:31:33,863 [Worker-381] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-news-api/src/test/resources
+2015-11-13 10:34:28,482 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:34:28,482 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-13 10:34:28,482 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 10:34:28,483 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:34:28,483 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-news-api/src/test/resources
+2015-11-13 10:35:49,156 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:35:49,157 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-13 10:35:49,157 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 10:35:49,159 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:35:49,159 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-news-api/src/test/resources
+2015-11-13 10:41:30,165 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:41:30,165 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-13 10:41:30,165 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 10:41:30,166 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:41:30,166 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-news-api/src/test/resources
+2015-11-13 10:47:17,611 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:47:17,611 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-13 10:47:17,611 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 10:47:17,612 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:47:17,612 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-news-api/src/test/resources
+2015-11-13 10:50:54,643 [Worker-390] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:50:54,643 [Worker-390] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-13 10:50:54,644 [Worker-390] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 10:50:54,644 [Worker-390] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:50:54,644 [Worker-390] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-news-api/src/test/resources
+2015-11-13 10:55:23,445 [Worker-390] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:55:23,445 [Worker-390] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-13 10:55:23,446 [Worker-390] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 10:55:23,446 [Worker-390] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 10:55:23,446 [Worker-390] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-news-api/src/test/resources
+2015-11-13 11:09:26,381 [Worker-397] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 11:09:26,381 [Worker-397] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-13 11:09:26,381 [Worker-397] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 11:09:26,382 [Worker-397] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 11:09:26,382 [Worker-397] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-news-api/src/test/resources
+2015-11-13 11:12:46,776 [Worker-398] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 11:12:46,776 [Worker-398] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-13 11:12:46,777 [Worker-398] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 11:12:46,777 [Worker-398] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 11:12:46,777 [Worker-398] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-news-api/src/test/resources
+2015-11-13 11:13:34,849 [Worker-400] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 11:13:34,849 [Worker-400] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-13 11:13:34,850 [Worker-400] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 11:13:34,850 [Worker-400] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 11:13:34,850 [Worker-400] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-news-api/src/test/resources
+2015-11-13 11:15:07,140 [Worker-396] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 11:15:07,140 [Worker-396] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-13 11:15:07,141 [Worker-396] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-13 11:15:07,142 [Worker-396] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-13 11:15:07,142 [Worker-396] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corp-news-api/src/test/resources
+2015-11-16 19:33:07,115 [Worker-356] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:33:07,116 [Worker-356] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 19:33:07,116 [Worker-356] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 19:33:07,119 [Worker-356] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:33:07,119 [Worker-356] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-16 19:36:34,820 [Worker-657] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:36:34,820 [Worker-657] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 19:36:34,821 [Worker-657] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 19:36:34,822 [Worker-657] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:36:34,822 [Worker-657] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-16 19:36:48,100 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:36:48,100 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 19:36:48,100 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 19:36:48,102 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:36:48,102 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-16 19:37:13,749 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:37:13,749 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 19:37:13,750 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 19:37:13,750 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:37:13,750 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-16 19:37:50,705 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:37:50,706 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 19:37:50,706 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 19:37:50,708 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:37:50,708 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-16 19:38:40,347 [Worker-656] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:38:40,347 [Worker-656] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 19:38:40,348 [Worker-656] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 19:38:40,349 [Worker-656] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:38:40,349 [Worker-656] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-16 19:38:49,877 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:38:49,878 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 19:38:49,878 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 19:38:49,879 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:38:49,879 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-16 19:39:52,371 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:39:52,371 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 19:39:52,372 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 19:39:52,375 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:39:52,375 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-16 19:40:17,797 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:40:17,798 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 19:40:17,798 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 19:40:17,799 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:40:17,799 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-16 19:40:34,630 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:40:34,631 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 19:40:34,631 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 19:40:34,632 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:40:34,632 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-16 19:40:42,597 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:40:42,598 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 19:40:42,598 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 19:40:42,599 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:40:42,599 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-16 19:52:33,048 [Worker-345] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:52:33,048 [Worker-345] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 19:52:33,049 [Worker-345] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 19:52:33,049 [Worker-345] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:52:33,050 [Worker-345] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-16 19:52:56,118 [Worker-661] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:52:56,118 [Worker-661] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 19:52:56,118 [Worker-661] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 19:52:56,119 [Worker-661] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:52:56,119 [Worker-661] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-16 19:53:56,868 [Worker-661] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:53:56,868 [Worker-661] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 19:53:56,868 [Worker-661] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 19:53:56,868 [Worker-661] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:53:56,868 [Worker-661] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-16 19:58:22,449 [Worker-345] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:58:22,449 [Worker-345] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 19:58:22,449 [Worker-345] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 19:58:22,450 [Worker-345] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:58:22,450 [Worker-345] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-16 19:58:48,526 [Worker-664] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:58:48,526 [Worker-664] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 19:58:48,528 [Worker-664] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-11-16 19:58:48,529 [Worker-664] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 19:58:48,529 [Worker-664] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-16 20:10:33,521 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:10:33,521 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 20:10:33,521 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-11-16 20:10:33,522 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:10:33,522 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-16 20:10:45,702 [Worker-660] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:10:45,702 [Worker-660] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 20:10:45,703 [Worker-660] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2015-11-16 20:10:45,704 [Worker-660] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:10:45,704 [Worker-660] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-16 20:13:27,088 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:13:27,089 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 20:13:27,089 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-11-16 20:13:27,090 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:13:27,090 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-16 20:13:27,099 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:13:27,099 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 20:13:27,100 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2015-11-16 20:13:27,101 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:13:27,101 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-16 20:30:09,038 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:30:09,038 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 20:30:09,038 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 20:30:09,039 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:30:09,039 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-16 20:30:16,577 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:30:16,577 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 20:30:16,577 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 20:30:16,579 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:30:16,579 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-16 20:30:34,836 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:30:34,836 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 20:30:34,836 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 20:30:34,837 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:30:34,837 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-16 20:35:10,661 [Worker-681] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:35:10,661 [Worker-681] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 20:35:10,661 [Worker-681] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 20:35:10,662 [Worker-681] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:35:10,662 [Worker-681] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-16 20:35:25,376 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:35:25,376 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 20:35:25,376 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 20:35:25,377 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:35:25,377 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-16 20:35:46,312 [Worker-680] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:35:46,312 [Worker-680] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 20:35:46,312 [Worker-680] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 20:35:46,313 [Worker-680] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:35:46,313 [Worker-680] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-16 20:36:41,770 [Worker-683] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:36:41,770 [Worker-683] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-16 20:36:41,770 [Worker-683] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-16 20:36:41,771 [Worker-683] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-16 20:36:41,771 [Worker-683] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-17 06:34:08,646 [Worker-706] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-17 06:34:08,646 [Worker-706] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-17 06:34:08,648 [Worker-706] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-11-17 06:34:08,649 [Worker-706] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-17 06:34:08,649 [Worker-706] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-17 06:34:18,021 [Worker-705] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-17 06:34:18,021 [Worker-705] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-17 06:34:18,022 [Worker-705] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-11-17 06:34:18,022 [Worker-705] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-17 06:34:18,022 [Worker-705] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo/src/test/resources
+2015-11-17 06:34:18,034 [Worker-705] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-17 06:34:18,034 [Worker-705] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-17 06:34:18,036 [Worker-705] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2015-11-17 06:34:18,037 [Worker-705] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-17 06:34:18,037 [Worker-705] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-17 06:58:46,089 [Worker-714] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-17 06:58:46,089 [Worker-714] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-17 06:58:46,089 [Worker-714] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-17 06:58:46,090 [Worker-714] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-17 06:58:46,090 [Worker-714] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
+2015-11-17 07:03:54,888 [Worker-714] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-17 07:03:54,888 [Worker-714] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-17 07:03:54,888 [Worker-714] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-17 07:03:54,889 [Worker-714] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-17 07:03:54,889 [Worker-714] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nagarwal/AFE Demo/corpinfo-v2/src/test/resources
